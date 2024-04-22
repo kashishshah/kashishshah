@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kashish</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kashishshah&label=Profile%20views&color=0e75b6&style=flat" alt="kashishshah" /> </p>
-
 <p align="left"> <a href="https://twitter.com/0xkashish" target="blank"><img src="https://img.shields.io/twitter/follow/kashishshah?logo=twitter&style=for-the-badge" alt="kashishshah" /></a> </p>
 
 <a target="_blank" align="center">
